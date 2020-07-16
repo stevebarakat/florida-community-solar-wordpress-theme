@@ -1,0 +1,2324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rambo Pro\n"
+"POT-Creation-Date: 2013-12-17 18:42+0530\n"
+"PO-Revision-Date: 2013-12-17 18:42+0530\n"
+"Last-Translator: \n"
+"Language-Team: Webriti\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../rambo-pro/404.php:7
+msgid "Unfortunately, the page you tried accessing could not be retrieved. "
+msgstr ""
+
+#: ../rambo-pro/404.php:9 ../twentyfourteen/content-none.php:27
+#: ../twentythirteen/content-none.php:27 ../twentytwelve/404.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../rambo-pro/about-us.php:29
+msgid "Who we are"
+msgstr ""
+
+#: ../rambo-pro/about-us.php:47
+msgid "Meet the Team"
+msgstr ""
+
+#: ../rambo-pro/about-us.php:79
+msgid "Anna Doe"
+msgstr ""
+
+#: ../rambo-pro/about-us.php:79
+msgid "( Animator )"
+msgstr ""
+
+#: ../rambo-pro/about-us.php:80
+msgid ""
+"Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit "
+"non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies "
+"vehicula ut id elit."
+msgstr ""
+
+#: ../rambo-pro/about-us.php:90
+msgid "Testimonials"
+msgstr ""
+
+#: ../rambo-pro/about-us.php:117
+msgid ""
+"Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque "
+"ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, "
+"tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. "
+"Donec lacinia congue felis in faucibus."
+msgstr ""
+
+#: ../rambo-pro/about-us.php:118
+msgid "Alexia Barlier"
+msgstr ""
+
+#: ../rambo-pro/about-us.php:118
+msgid "HR Executive"
+msgstr ""
+
+#: ../rambo-pro/archive.php:8
+msgid "Daily Archives: "
+msgstr ""
+
+#: ../rambo-pro/archive.php:10
+msgid "Monthly Archives: "
+msgstr ""
+
+#: ../rambo-pro/archive.php:12
+msgid "Yearly Archives: "
+msgstr ""
+
+#: ../rambo-pro/archive.php:14
+msgid "Blog Archives: "
+msgstr ""
+
+#: ../rambo-pro/archive.php:25
+msgid "no title"
+msgstr ""
+
+#: ../rambo-pro/archive.php:38 ../rambo-pro/author.php:24
+#: ../rambo-pro/blog-2.php:28 ../rambo-pro/index.php:28
+#: ../rambo-pro/page.php:19 ../rambo-pro/search.php:19
+#: ../rambo-pro/single.php:19 ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:180
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+msgid "Leave a comment"
+msgstr ""
+
+#: ../rambo-pro/archive.php:39 ../rambo-pro/author.php:25
+#: ../rambo-pro/blog-2.php:29 ../rambo-pro/index.php:29
+#: ../rambo-pro/page.php:20 ../rambo-pro/search.php:20
+#: ../rambo-pro/single.php:20
+msgid "By"
+msgstr ""
+
+#: ../rambo-pro/archive.php:41 ../rambo-pro/author.php:28
+#: ../rambo-pro/blog-2.php:31 ../rambo-pro/category.php:18
+#: ../rambo-pro/fullwidth - leftsb.php:18 rightsb.php:17
+#: ../rambo-pro/fullwidth.php:17 ../rambo-pro/index-project.php:38
+#: ../rambo-pro/index-project.php:51 ../rambo-pro/index-service.php:32
+#: ../rambo-pro/index-service.php:44 ../rambo-pro/index.php:31
+#: ../rambo-pro/page.php:22 ../rambo-pro/single.php:22
+msgid "Read More"
+msgstr ""
+
+#: ../rambo-pro/author.php:7
+msgid "Author Archives : "
+msgstr ""
+
+#: ../rambo-pro/blog-2.php:35 ../rambo-pro/blog.php:34
+#: ../rambo-pro/index.php:35 ../rambo-pro/single-rambopro_project.php:64
+msgid "Tags:"
+msgstr ""
+
+#: ../rambo-pro/category.php:7
+msgid "Category  Archives:"
+msgstr ""
+
+#: ../rambo-pro/client-strip.php:21
+msgid "Our Client"
+msgstr ""
+
+#: ../rambo-pro/comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../rambo-pro/comments.php:8
+msgid "Comments"
+msgstr ""
+
+#: ../rambo-pro/comments.php:14 ../rambo-pro/comments.php:25
+#: ../twentyfourteen/comments.php:34 ../twentyfourteen/comments.php:52
+#: ../twentythirteen/comments.php:45 ../twentytwelve/comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: ../rambo-pro/comments.php:15 ../rambo-pro/comments.php:26
+#: ../twentyfourteen/comments.php:35 ../twentyfourteen/comments.php:53
+#: ../twentythirteen/comments.php:46 ../twentytwelve/comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../rambo-pro/comments.php:16 ../rambo-pro/comments.php:27
+#: ../twentyfourteen/comments.php:36 ../twentyfourteen/comments.php:54
+#: ../twentythirteen/comments.php:47 ../twentytwelve/comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../rambo-pro/comments.php:31
+msgid "Comments Are Closed!!!"
+msgstr ""
+
+#: ../rambo-pro/comments.php:35
+msgid "You must be"
+msgstr ""
+
+#: ../rambo-pro/comments.php:35
+msgid "logged in"
+msgstr ""
+
+#: ../rambo-pro/comments.php:35
+msgid "to post a comment"
+msgstr ""
+
+#: ../rambo-pro/comments.php:59
+msgid "Logged in as "
+msgstr ""
+
+#: ../rambo-pro/comments.php:59
+msgid " Log out?"
+msgstr ""
+
+#: ../rambo-pro/comments.php:61
+msgid "Post Comment"
+msgstr ""
+
+#: ../rambo-pro/comments.php:63
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../rambo-pro/contact.php:11
+msgid "View Larger Map"
+msgstr ""
+
+#: ../rambo-pro/contact.php:25
+msgid "Contact Form"
+msgstr ""
+
+#: ../rambo-pro/contact.php:29
+msgid "Name"
+msgstr ""
+
+#: ../rambo-pro/contact.php:31
+msgid "Email"
+msgstr ""
+
+#: ../rambo-pro/contact.php:33
+msgid "Website"
+msgstr ""
+
+#: ../rambo-pro/contact.php:35
+msgid "Comment"
+msgstr ""
+
+#: ../rambo-pro/contact.php:39
+msgid "Send Message"
+msgstr ""
+
+#: ../rambo-pro/contact.php:42
+msgid "Please Enter Your Name"
+msgstr ""
+
+#: ../rambo-pro/contact.php:43
+msgid "Please Enter valid email"
+msgstr ""
+
+#: ../rambo-pro/contact.php:44
+msgid "Please Enter your contact message"
+msgstr ""
+
+#: ../rambo-pro/contact.php:45
+msgid "Sorry, your nonce did not verify"
+msgstr ""
+
+#: ../rambo-pro/contact.php:52
+msgid "Thank  you!"
+msgstr ""
+
+#: ../rambo-pro/contact.php:52
+msgid "You successfully sent contact information..."
+msgstr ""
+
+#: ../rambo-pro/contact.php:63
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:54
+msgid "Get in Touch"
+msgstr ""
+
+#: ../rambo-pro/contact.php:65
+msgid ""
+"Lorem ipsum dolor sit amet, usu rebum errem pericula ea, ei alia quaerendum "
+"vix. Ea justo tritani sit, odio ignota quo te. Lorem ipsum dolor sit amet."
+msgstr ""
+
+#: ../rambo-pro/contact.php:75
+msgid "Our Office"
+msgstr ""
+
+#: ../rambo-pro/contact.php:79
+msgid "Address:"
+msgstr ""
+
+#: ../rambo-pro/contact.php:79 ../rambo-pro/footer.php:31
+#: ../rambo-pro/functions/widget/rambo-footer-contact-widgets.php:44
+msgid "New York City, USA"
+msgstr ""
+
+#: ../rambo-pro/contact.php:83
+msgid "Email:"
+msgstr ""
+
+#: ../rambo-pro/contact.php:84
+#: ../rambo-pro/functions/widget/rambo-footer-contact-widgets.php:52
+msgid "info@rambotheme.com"
+msgstr ""
+
+#: ../rambo-pro/contact.php:88
+msgid "Phone:"
+msgstr ""
+
+#: ../rambo-pro/contact.php:89
+#: ../rambo-pro/functions/widget/rambo-footer-contact-widgets.php:48
+#: ../rambo-pro/functions/widget/rambo-footer-contact-widgets.php:74
+msgid "420-300-3850"
+msgstr ""
+
+#: ../rambo-pro/contact.php:99
+msgid "Get Connected"
+msgstr ""
+
+#: ../rambo-pro/footer.php:12
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:2
+msgid "About Us"
+msgstr ""
+
+#: ../rambo-pro/footer.php:13
+msgid ""
+"Rambo is an incredibly beautiful responsive Bootstrap\n"
+"\t\t\t\tTemplate for corporate and creative professionals. Rambo is an "
+"incredibly beautiful responsive Bootstrap Template for corporate and "
+"creative professionals."
+msgstr ""
+
+#: ../rambo-pro/footer.php:19
+#: ../rambo-pro/functions/widget/rambo-footer-usefull-links-widgets.php:63
+#: ../rambo-pro/functions/widget/rambo-sidebar-categoryt-list.php:62
+msgid "Usefull Links"
+msgstr ""
+
+#: ../rambo-pro/footer.php:21 ../rambo-pro/footer.php:24
+msgid "Hi This is Rambo Theme Fully Responsive."
+msgstr ""
+
+#: ../rambo-pro/footer.php:22 ../rambo-pro/footer.php:25
+msgid "Hi This is Twitter Bootstrap Responsive."
+msgstr ""
+
+#: ../rambo-pro/footer.php:23
+msgid "Hi This is Rambo Usefull Link."
+msgstr ""
+
+#: ../rambo-pro/footer.php:29
+#: ../rambo-pro/functions/widget/rambo-footer-contact-widgets.php:68
+msgid "Contact Info"
+msgstr ""
+
+#: ../rambo-pro/footer.php:34
+msgid " 420-300-3850"
+msgstr ""
+
+#: ../rambo-pro/footer.php:37
+msgid " info@rambotheme.com"
+msgstr ""
+
+#: ../rambo-pro/footer.php:40
+msgid "Find us in Google Map !"
+msgstr ""
+
+#: ../rambo-pro/footer.php:99
+msgid "Style Switcher"
+msgstr ""
+
+#: ../rambo-pro/footer.php:101
+msgid "Layout Style"
+msgstr ""
+
+#: ../rambo-pro/footer.php:104
+msgid "Wide"
+msgstr ""
+
+#: ../rambo-pro/footer.php:105
+msgid "Boxed"
+msgstr ""
+
+#: ../rambo-pro/footer.php:108
+msgid "Choose color Scheme"
+msgstr ""
+
+#: ../rambo-pro/functions.php:58
+msgid "Page"
+msgstr ""
+
+#: ../rambo-pro/functions.php:73 ../twentyfourteen/header.php:52
+#: ../twentytwelve/functions.php:64
+msgid "Primary Menu"
+msgstr ""
+
+#: ../rambo-pro/header.php:46 ../rambo-pro/header.php:87
+msgid "R"
+msgstr ""
+
+#: ../rambo-pro/header.php:46 ../rambo-pro/header.php:87
+msgid "ambo"
+msgstr ""
+
+#: ../rambo-pro/index-project.php:19
+msgid "Featured Portfolio Projects"
+msgstr ""
+
+#: ../rambo-pro/index-project.php:20
+msgid ""
+"Maecenas sit amet tincidunt elit. Pellentesque habitant morbi tristique "
+"senectus et netus et Nulla facilisi."
+msgstr ""
+
+#: ../rambo-pro/index-project.php:49
+msgid "One More Works"
+msgstr ""
+
+#: ../rambo-pro/index-project.php:50
+msgid ""
+"Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit "
+"amet risus etiam porta sem."
+msgstr ""
+
+#: ../rambo-pro/index-recentblog.php:9 ../rambo-pro/theme_setup_data.php:63
+#: ../rambo-pro/functions/widget/rambo-sidebar-latest-news.php:70
+msgid "Latest News"
+msgstr ""
+
+#: ../rambo-pro/index-service.php:42
+msgid "Html5 & Css3"
+msgstr ""
+
+#: ../rambo-pro/index-service.php:43
+msgid ""
+"Mauris rhoncus pretium porttitor. Cras scelerisque commodo odio. Phasellus "
+"dolor enim, faucibus egestas scelerisque hendrerit, aliquet sed lorem."
+msgstr ""
+
+#: ../rambo-pro/index-slider.php:65
+msgid "Fully Responsive Theme !"
+msgstr ""
+
+#: ../rambo-pro/index-slider.php:66
+msgid ""
+"Furniot makes content easy to view on any device with any resolution. You "
+"may check this with resizing. Fully Responsive Theme Amazing Design."
+msgstr ""
+
+#: ../rambo-pro/index-slider.php:67
+msgid "Buy Now"
+msgstr ""
+
+#: ../rambo-pro/index-theme-introduction.php:19
+msgid "Rambo is a clean and fully responsive Template."
+msgstr ""
+
+#: ../rambo-pro/index-theme-introduction.php:20
+msgid ""
+"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis "
+"praesentium voluptatum deleniti atque corrupti quos excepturi  vehicula sem "
+"ut volutpat. Ut non libero magna fusce condimentum eleifend enim a feugiat."
+msgstr ""
+
+#: ../rambo-pro/index-theme-introduction.php:23
+msgid "Purchase Now"
+msgstr ""
+
+#: ../rambo-pro/portfolio-2-column.php:61
+#: ../rambo-pro/portfolio-2-column.php:71
+#: ../rambo-pro/portfolio-3-column.php:61
+#: ../rambo-pro/portfolio-3-column.php:71
+#: ../rambo-pro/portfolio-4-column.php:61
+#: ../rambo-pro/portfolio-4-column.php:71
+msgid "Responsive Portfolio by Scientech"
+msgstr ""
+
+#: ../rambo-pro/portfolio-2-column.php:72
+#: ../rambo-pro/portfolio-3-column.php:72
+#: ../rambo-pro/portfolio-4-column.php:72
+msgid "Photography"
+msgstr ""
+
+#: ../rambo-pro/search.php:7 ../twentyfourteen/search.php:18
+#: ../twentythirteen/search.php:18 ../twentytwelve/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../rambo-pro/search.php:26 ../twentyfourteen/content-none.php:12
+#: ../twentythirteen/content-none.php:12 ../twentytwelve/content-none.php:13
+#: ../twentytwelve/index.php:49 ../twentytwelve/search.php:34
+msgid "Nothing Found"
+msgstr ""
+
+#: ../rambo-pro/search.php:28 ../twentytwelve/search.php:38
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../rambo-pro/service-template.php:48
+msgid "Fully Responsive Design"
+msgstr ""
+
+#: ../rambo-pro/service-template.php:49
+msgid ""
+"Asunt in anim uis aute irure dolor in reprehenderit in voluptate velit esse "
+"cillum do lore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat "
+"non proident, sunt in anim id est laborum."
+msgstr ""
+
+#: ../rambo-pro/single-rambopro_project.php:56
+msgid "Client:"
+msgstr ""
+
+#: ../rambo-pro/single-rambopro_project.php:60
+msgid "Skills:"
+msgstr ""
+
+#: ../rambo-pro/single-rambopro_project.php:68
+msgid "Visit Website:"
+msgstr ""
+
+#: ../rambo-pro/testimonials-page.php:1
+msgid "Testimonial"
+msgstr ""
+
+#: ../rambo-pro/testimonials-page.php:1
+msgid ""
+"Appreciate your help and quick response. The overall work on the theme is "
+"impressive. Thanks for excellent support, I will continue tobuy from you as "
+"new site needs arise. Great products service Thanks for excellent support !"
+msgstr ""
+
+#: ../rambo-pro/testimonials-page.php:1
+msgid "Lisa Roy"
+msgstr ""
+
+#: ../rambo-pro/testimonials-page.php:1
+msgid "PHP Developer"
+msgstr ""
+
+#: ../rambo-pro/functions/commentbox/comment-function.php:14
+#: ../twentytwelve/functions.php:353
+msgid "Reply"
+msgstr ""
+
+#: ../rambo-pro/functions/commentbox/comment-function.php:29
+#: ../twentytwelve/functions.php:344
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../rambo-pro/functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr ""
+
+#: ../rambo-pro/functions/meta-box/post-meta.php:23
+msgid "Image Caption"
+msgstr ""
+
+#: ../rambo-pro/functions/meta-box/post-meta.php:25
+msgid "Read More Button"
+msgstr ""
+
+#: ../rambo-pro/functions/meta-box/post-meta.php:27
+msgid "Read More Link"
+msgstr ""
+
+#: ../rambo-pro/functions/meta-box/post-meta.php:39
+msgid "Service Icon (Using Font Awesome icons name) like: fa-rub ."
+msgstr ""
+
+#: ../rambo-pro/functions/meta-box/post-meta.php:39
+msgid "Click here to fontawesome icon."
+msgstr ""
+
+#: ../rambo-pro/functions/meta-box/post-meta.php:42
+msgid "Service Descritpion"
+msgstr ""
+
+#: ../rambo-pro/functions/meta-box/post-meta.php:55
+msgid "Client"
+msgstr ""
+
+#: ../rambo-pro/functions/meta-box/post-meta.php:58
+msgid "Skills"
+msgstr ""
+
+#: ../rambo-pro/functions/meta-box/post-meta.php:61
+msgid "Tags"
+msgstr ""
+
+#: ../rambo-pro/functions/meta-box/post-meta.php:64
+msgid "Visit Website"
+msgstr ""
+
+#: ../rambo-pro/functions/meta-box/post-meta.php:74
+msgid "Member Designation"
+msgstr ""
+
+#: ../rambo-pro/functions/meta-box/post-meta.php:76
+msgid "Role Descritpion"
+msgstr ""
+
+#: ../rambo-pro/functions/meta-box/post-meta.php:83
+msgid "Upload Client image using Featured Image"
+msgstr ""
+
+#: ../rambo-pro/functions/meta-box/post-meta.php:84
+msgid ""
+"For More Configuration of the slider ,Go to Option Panel -> Slider Settings "
+"Tab ."
+msgstr ""
+
+#: ../rambo-pro/functions/meta-box/post-meta.php:92
+msgid "Testimonial Designation"
+msgstr ""
+
+#: ../rambo-pro/functions/meta-box/post-meta.php:94
+msgid "Upload Testimonial image using Featured Image"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:9
+#: ../rambo-pro/functions/post-type/custom-post-type.php:11
+msgid "Add New Slide"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:10
+msgid "Add New Slider"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:12
+#: ../rambo-pro/functions/post-type/custom-post-type.php:40
+#: ../rambo-pro/functions/post-type/custom-post-type.php:68
+#: ../rambo-pro/functions/post-type/custom-post-type.php:96
+#: ../rambo-pro/functions/post-type/custom-post-type.php:125
+#: ../rambo-pro/functions/post-type/custom-post-type.php:153
+msgid "New Link"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:13
+msgid "All Featured Sliders"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:14
+#: ../rambo-pro/functions/post-type/custom-post-type.php:42
+#: ../rambo-pro/functions/post-type/custom-post-type.php:70
+#: ../rambo-pro/functions/post-type/custom-post-type.php:98
+#: ../rambo-pro/functions/post-type/custom-post-type.php:127
+#: ../rambo-pro/functions/post-type/custom-post-type.php:155
+msgid "View Link"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:15
+#: ../rambo-pro/functions/post-type/custom-post-type.php:43
+#: ../rambo-pro/functions/post-type/custom-post-type.php:71
+#: ../rambo-pro/functions/post-type/custom-post-type.php:99
+#: ../rambo-pro/functions/post-type/custom-post-type.php:128
+#: ../rambo-pro/functions/post-type/custom-post-type.php:156
+msgid "Search Links"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:16
+#: ../rambo-pro/functions/post-type/custom-post-type.php:44
+#: ../rambo-pro/functions/post-type/custom-post-type.php:72
+#: ../rambo-pro/functions/post-type/custom-post-type.php:100
+#: ../rambo-pro/functions/post-type/custom-post-type.php:129
+#: ../rambo-pro/functions/post-type/custom-post-type.php:157
+msgid "No Links found"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:17
+#: ../rambo-pro/functions/post-type/custom-post-type.php:45
+#: ../rambo-pro/functions/post-type/custom-post-type.php:73
+#: ../rambo-pro/functions/post-type/custom-post-type.php:101
+#: ../rambo-pro/functions/post-type/custom-post-type.php:130
+#: ../rambo-pro/functions/post-type/custom-post-type.php:158
+msgid "No Links found in Trash"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:37
+#: ../rambo-pro/functions/post-type/custom-post-type.php:39
+msgid "Add New service"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:38
+msgid "Add New Service"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:41
+msgid "All Services"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:65
+msgid "Add New Item"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:66
+msgid "Add New Project"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:67
+msgid "Add New Portfolio / project"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:69
+msgid "All Portfolio Project"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:93
+#: ../rambo-pro/functions/post-type/custom-post-type.php:94
+#: ../rambo-pro/functions/post-type/custom-post-type.php:95
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:97
+msgid "All Testimonials"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:122
+msgid "Add New Team Member"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:123
+#: ../rambo-pro/functions/post-type/custom-post-type.php:124
+msgid "Add New Member"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:126
+msgid "All Team Member"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:150
+#: ../rambo-pro/functions/post-type/custom-post-type.php:151
+#: ../rambo-pro/functions/post-type/custom-post-type.php:152
+msgid "Add New Client"
+msgstr ""
+
+#: ../rambo-pro/functions/post-type/custom-post-type.php:154
+msgid "All Client"
+msgstr ""
+
+#: ../rambo-pro/functions/shortcodes/shortcodes.php:348
+msgid "1"
+msgstr ""
+
+#: ../rambo-pro/functions/shortcodes/shortcodes.php:349
+msgid "order"
+msgstr ""
+
+#: ../rambo-pro/functions/shortcodes/shortcodes_iframe.php:33
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../rambo-pro/functions/shortcodes/shortcodes_iframe.php:70
+msgid "Shortcode Selector"
+msgstr ""
+
+#: ../rambo-pro/functions/shortcodes/shortcodes_iframe.php:78
+msgid "Shortcodes"
+msgstr ""
+
+#: ../rambo-pro/functions/shortcodes/shortcodes_iframe.php:79
+msgid "Alert"
+msgstr ""
+
+#: ../rambo-pro/functions/shortcodes/shortcodes_iframe.php:80
+msgid "Button"
+msgstr ""
+
+#: ../rambo-pro/functions/shortcodes/shortcodes_iframe.php:81
+msgid "Tabs"
+msgstr ""
+
+#: ../rambo-pro/functions/shortcodes/shortcodes_iframe.php:82
+msgid "Drop-Caps"
+msgstr ""
+
+#: ../rambo-pro/functions/shortcodes/shortcodes_iframe.php:83
+msgid "Grid System Layout"
+msgstr ""
+
+#: ../rambo-pro/functions/shortcodes/shortcodes_iframe.php:84
+msgid "Tool Tip"
+msgstr ""
+
+#: ../rambo-pro/functions/shortcodes/shortcodes_iframe.php:85
+msgid "Heading"
+msgstr ""
+
+#: ../rambo-pro/functions/shortcodes/shortcodes_iframe.php:86
+msgid "Fontawesome with text"
+msgstr ""
+
+#: ../rambo-pro/functions/shortcodes/shortcodes_iframe.php:87
+msgid "Column"
+msgstr ""
+
+#: ../rambo-pro/functions/shortcodes/shortcodes_iframe.php:88
+msgid "Ordered List"
+msgstr ""
+
+#: ../rambo-pro/functions/shortcodes/shortcodes_iframe.php:89
+msgid "Unordered List"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/webriti_option_pannel.php:8
+msgid "Rambo pro"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/webriti_option_pannel.php:10
+msgid "Support Desk"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/webriti_option_pannel.php:11
+msgid "Theme Documentation"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/webriti_option_pannel.php:12
+msgid "View Changelog"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/webriti_option_pannel.php:21
+msgid "Home Page"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/webriti_option_pannel.php:22
+msgid "Quick Start"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/webriti_option_pannel.php:23
+msgid "Slider Setting"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/webriti_option_pannel.php:24
+msgid "Project Portfolio"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/webriti_option_pannel.php:25
+msgid "Footer call out area"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/webriti_option_pannel.php:29
+#: ../rambo-pro/functions/theme_options/pages/typography.php:2
+msgid "Typography"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/webriti_option_pannel.php:32
+msgid "About Us Setting"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/webriti_option_pannel.php:35
+msgid "Footer Customization"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/webriti_option_pannel.php:38
+msgid "Contact Page"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/webriti_option_pannel.php:39
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:2
+msgid "Contact Information"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/webriti_option_pannel.php:40
+msgid "Social media links"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/webriti_option_pannel.php:41
+#: ../rambo-pro/functions/theme_options/pages/contact_social_media_settings.php:2
+#: ../rambo-pro/functions/theme_options/pages/google_maps_settings.php:2
+msgid "Google Maps"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:85
+msgid "Enable about us content with Featured image."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:86
+msgid ""
+"Enable About Us content with Featured Image and social media links on About "
+"Us Page"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:88
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:66
+msgid "About Page Title"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:91
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:69
+msgid "Enter About Page Title"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:95
+msgid "Enable social icons on about us page"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:96
+msgid "Enable social icons on About us page."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:100
+msgid "Enable Our team section"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:101
+msgid "Enable Our team section on about us page."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:103
+msgid "Our Team Title"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:106
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:87
+msgid "Enter Meet the Team Heading"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:111
+msgid "Enable testmonials section"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:112
+msgid "Enable testmonials section on about us page."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:113
+msgid "Enable testmonials section on service template."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:115
+msgid "Testimonials Title"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:118
+msgid "Enter testimonials title"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:123
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:77
+msgid "Enable Client Strip"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:124
+msgid "Enable client strip on About us page."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:125
+msgid "Enable client strip on Service Page template."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:127
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:91
+msgid "Client Strip Heading"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:130
+msgid "Enter Client Strip title"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:132
+msgid "Number of client display in client strip"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:135
+msgid "Enter numeric digit for display clients list."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:144
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:107
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:122
+#: ../rambo-pro/functions/theme_options/pages/contact_social_media_settings.php:78
+#: ../rambo-pro/functions/theme_options/pages/footer_call_out_area_settings.php:72
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_seetings.php:90
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_settings.php:90
+#: ../rambo-pro/functions/theme_options/pages/google_maps_settings.php:46
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:120
+#: ../rambo-pro/functions/theme_options/pages/project_page_settings.php:67
+#: ../rambo-pro/functions/theme_options/pages/siteintro_page_settings.php:76
+#: ../rambo-pro/functions/theme_options/pages/slider_page_settings.php:118
+#: ../rambo-pro/functions/theme_options/pages/typography.php:405
+msgid "Options data successfully Saved"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/about_us_page_settings.php:145
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:108
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:123
+#: ../rambo-pro/functions/theme_options/pages/contact_social_media_settings.php:79
+#: ../rambo-pro/functions/theme_options/pages/footer_call_out_area_settings.php:73
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_seetings.php:91
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_settings.php:91
+#: ../rambo-pro/functions/theme_options/pages/google_maps_settings.php:47
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:121
+#: ../rambo-pro/functions/theme_options/pages/project_page_settings.php:68
+#: ../rambo-pro/functions/theme_options/pages/siteintro_page_settings.php:77
+#: ../rambo-pro/functions/theme_options/pages/slider_page_settings.php:119
+#: ../rambo-pro/functions/theme_options/pages/typography.php:406
+msgid "Options data successfully reset"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:2
+#: ../rambo-pro/functions/theme_options/pages/slider_page_settings.php:2
+msgid "Slider Settings"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:64
+msgid "Enable About Us Featured Image"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:65
+msgid "Enable About Us Featured Image on About Us Page"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:71
+msgid "Enable Social Icons On About Us Page"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:72
+msgid "Enable Social Icons On ABout Us Page on About Us Page"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:78
+msgid "Enable Client Strip on About Us Page."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:79
+msgid "Enable Client Strip on Service Page."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:82
+msgid "Enable Our Team Section"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:83
+msgid "Enable Our Team Section on About Us Page."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:84
+msgid "Meet the Team Heading"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:94
+msgid "Enter Client Strip Heading"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:96
+msgid "Enter Number of Clients"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/client_strip_settings.php:99
+msgid "Enter Numeric Digit for clients"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:55
+msgid "Enable Get in touch in contct page."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:59
+msgid "Get in Touch Text:"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:62
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:81
+msgid "Enter Get in touch text."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:66
+msgid "Get in Touch Description"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:69
+msgid "Enter get in touch description"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:74
+msgid "Our Office section"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:75
+msgid "Enable our office section in contct page."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:78
+msgid "Our Office Text:"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:86
+msgid "Contact Address:"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:89
+msgid "Enter Contact address."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:94
+msgid "Contact Phone Number:"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:97
+msgid "Enter Contact phone number."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:102
+msgid "Contact Email:"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:105
+msgid "Enter Contact email address."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:110
+msgid "Website :"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_page_settings.php:113
+msgid "Enter your website address."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_social_media_settings.php:39
+msgid "Enable Social media in contact page :"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_social_media_settings.php:40
+msgid "Enable social media in contact page."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_social_media_settings.php:43
+msgid "Twitter Link:"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_social_media_settings.php:46
+msgid "Enter twitter link."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_social_media_settings.php:50
+msgid "Linkedin Links:"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_social_media_settings.php:53
+msgid "Enter linkedin link."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_social_media_settings.php:58
+msgid "Facebook Links:"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_social_media_settings.php:61
+msgid "Enter facebook link."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_social_media_settings.php:66
+msgid "Google Plus Links:"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/contact_social_media_settings.php:69
+msgid "Enter google plus link."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_call_out_area_settings.php:2
+msgid "Footer call out Area"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_call_out_area_settings.php:39
+msgid "Enable Footer call out area"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_call_out_area_settings.php:40
+msgid "Enable Footer called out area in fornt page."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_call_out_area_settings.php:43
+msgid "Footer call out title"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_call_out_area_settings.php:43
+msgid "Enter Footer call out title in short words"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_call_out_area_settings.php:48
+msgid " Footer call out description"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_call_out_area_settings.php:49
+msgid "Enter Footer call out description"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_call_out_area_settings.php:54
+msgid "Footer call out button text"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_call_out_area_settings.php:55
+msgid "Enter Footer call out button text"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_call_out_area_settings.php:61
+msgid "Footer call out button link"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_call_out_area_settings.php:62
+msgid "Enter Footer call out button link"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_seetings.php:2
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_settings.php:2
+msgid "Footer Custmization"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_seetings.php:46
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_settings.php:46
+msgid "Copy Rights Text"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_seetings.php:49
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_seetings.php:63
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_seetings.php:70
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_seetings.php:77
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_settings.php:49
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_settings.php:63
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_settings.php:70
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_settings.php:77
+msgid "Enter custom copy rights text."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_seetings.php:53
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_settings.php:53
+msgid "Privacy Policy Text"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_seetings.php:56
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_settings.php:56
+msgid "Enter Privacy Policy Text."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_seetings.php:60
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_settings.php:60
+msgid "Privacy Policy Link"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_seetings.php:67
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_settings.php:67
+msgid "Terms of Service Text"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_seetings.php:74
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_settings.php:74
+msgid "Terms of Service Link"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_seetings.php:81
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_settings.php:81
+msgid "Enable Social media"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_seetings.php:82
+msgid "Enable Social media ican in footer section."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/footer_customization_settings.php:82
+msgid "Enable Social media icon in footer section."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/google_maps_settings.php:31
+msgid "Enable Google Map in contact page :"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/google_maps_settings.php:32
+msgid "Enable Google map on contact page."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/google_maps_settings.php:35
+msgid "Google Map URL:"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/google_maps_settings.php:38
+msgid "Enter google map url."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:44
+msgid "Quick Start Settings"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:48
+msgid "Enable Front Page"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:49
+msgid "Enable front page ."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:52
+msgid "Theme Stylesheet"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:60
+msgid "Select your themes alternative color scheme"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:61
+msgid "Layout Selector"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:69
+msgid "Custom Logo"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:70
+msgid "Logo must be in 150 X 50 px"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:80
+msgid "Logo Height"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:81
+#: ../rambo-pro/functions/theme_options/pages/project_page_settings.php:46
+msgid "Logo height must be less then 80px"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:86
+msgid "Logo Width"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:87
+msgid "Logo width must be less then 200 px"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:92
+msgid "Text Title"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:93
+msgid "Enable text-based Site Title and Tagline. Setup title"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:93
+msgid "tagline in"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:93
+msgid "General Settings"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:96
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:97
+msgid "Custom Favicon Must be in 25 X 25 px"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:106
+msgid "Google Tracking Code"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:108
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme.Copy only srcipting code."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:111
+msgid "Custom css"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/header_page_settings.php:113
+msgid "Paste your custom css code and change your layout without code editing."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/project_page_settings.php:2
+msgid "Project protfolio"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/project_page_settings.php:40
+msgid "Enable Home Project Portfolio"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/project_page_settings.php:45
+msgid "Project protfolio tag line"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/project_page_settings.php:52
+msgid "Project protfolio description"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/project_page_settings.php:53
+msgid "Description must be less then 200 character"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/project_page_settings.php:58
+msgid "Enable Home Latest News"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/siteintro_page_settings.php:2
+msgid "Site Info"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/siteintro_page_settings.php:39
+msgid "Enable Home Site Info"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/siteintro_page_settings.php:43
+msgid "Site info title"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/siteintro_page_settings.php:46
+msgid "Enter site info title in short words"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/siteintro_page_settings.php:50
+msgid "Site info description"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/siteintro_page_settings.php:53
+msgid "Enter site info description"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/siteintro_page_settings.php:57
+msgid "Site info button text"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/siteintro_page_settings.php:60
+msgid "Enter site info button text"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/siteintro_page_settings.php:64
+msgid "Site info button link"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/siteintro_page_settings.php:67
+msgid "Enter site info button link"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/slider_page_settings.php:44
+msgid "Enable Home Slider"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/slider_page_settings.php:45
+msgid "Enable slider on fornt page."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/slider_page_settings.php:48
+msgid "Animation"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/slider_page_settings.php:51
+msgid "fade"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/slider_page_settings.php:52
+msgid "slide"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/slider_page_settings.php:55
+msgid "Select the Animation Type"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/slider_page_settings.php:59
+msgid "Slide direction"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/slider_page_settings.php:62
+msgid "vertical"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/slider_page_settings.php:63
+msgid "horizontal"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/slider_page_settings.php:66
+msgid "Select the Slider Direction"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/slider_page_settings.php:70
+msgid "Animation speed"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/slider_page_settings.php:86
+msgid "Select the Animation Speed"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/slider_page_settings.php:90
+msgid "Slideshow speed"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/slider_page_settings.php:106
+msgid "Select the Slide Show Speed"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/slider_page_settings.php:110
+msgid "Enable Home Service"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/slider_page_settings.php:111
+msgid "Enable Home service section in fornt page."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/typography.php:132
+msgid "Enable Custom Typography"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/typography.php:133
+msgid ""
+"Enable the use of custom typography for your site. Custom styling will be "
+"output in your sites."
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/typography.php:136
+msgid "General Typography"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/typography.php:142
+#: ../rambo-pro/functions/theme_options/pages/typography.php:173
+#: ../rambo-pro/functions/theme_options/pages/typography.php:199
+#: ../rambo-pro/functions/theme_options/pages/typography.php:225
+#: ../rambo-pro/functions/theme_options/pages/typography.php:251
+#: ../rambo-pro/functions/theme_options/pages/typography.php:277
+#: ../rambo-pro/functions/theme_options/pages/typography.php:303
+#: ../rambo-pro/functions/theme_options/pages/typography.php:329
+#: ../rambo-pro/functions/theme_options/pages/typography.php:355
+#: ../rambo-pro/functions/theme_options/pages/typography.php:381
+msgid "px"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/typography.php:158
+#: ../rambo-pro/functions/theme_options/pages/typography.php:187
+#: ../rambo-pro/functions/theme_options/pages/typography.php:213
+#: ../rambo-pro/functions/theme_options/pages/typography.php:239
+#: ../rambo-pro/functions/theme_options/pages/typography.php:265
+#: ../rambo-pro/functions/theme_options/pages/typography.php:291
+#: ../rambo-pro/functions/theme_options/pages/typography.php:317
+#: ../rambo-pro/functions/theme_options/pages/typography.php:343
+#: ../rambo-pro/functions/theme_options/pages/typography.php:369
+#: ../rambo-pro/functions/theme_options/pages/typography.php:395
+msgid "Normal"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/typography.php:159
+#: ../rambo-pro/functions/theme_options/pages/typography.php:188
+#: ../rambo-pro/functions/theme_options/pages/typography.php:214
+#: ../rambo-pro/functions/theme_options/pages/typography.php:240
+#: ../rambo-pro/functions/theme_options/pages/typography.php:266
+#: ../rambo-pro/functions/theme_options/pages/typography.php:292
+#: ../rambo-pro/functions/theme_options/pages/typography.php:318
+#: ../rambo-pro/functions/theme_options/pages/typography.php:344
+#: ../rambo-pro/functions/theme_options/pages/typography.php:370
+#: ../rambo-pro/functions/theme_options/pages/typography.php:396
+msgid "Italic"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/typography.php:167
+#: ../twentythirteen/header.php:43 ../twentytwelve/header.php:43
+msgid "Menu"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/typography.php:193
+msgid "Post Title"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/typography.php:219
+msgid "Page Title"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/typography.php:245
+msgid "Service Title"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/typography.php:271
+msgid "Potfolio Title"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/typography.php:297
+msgid "Widget Heading Title"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/typography.php:323
+msgid "Call Out Area Title"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/typography.php:349
+msgid "Call Out Area Descritpion"
+msgstr ""
+
+#: ../rambo-pro/functions/theme_options/pages/typography.php:375
+msgid "Call Out Area Purches Button"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/custom-sidebar.php:7
+msgid "Sidebar"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/custom-sidebar.php:9
+msgid "The primary widget area"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/custom-sidebar.php:17
+#: ../twentyfourteen/functions.php:193
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/custom-sidebar.php:19
+msgid "footer widget area"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-footer-contact-widgets.php:17
+msgid "Rambo Footer Contact"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-footer-contact-widgets.php:18
+msgid "Your contact details display"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-footer-contact-widgets.php:71
+msgid "New York City, USA "
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-footer-contact-widgets.php:77
+msgid "info@rambotheme.com "
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-footer-contact-widgets.php:80
+#: ../rambo-pro/functions/widget/rambo-footer-usefull-links-widgets.php:68
+#: ../rambo-pro/functions/widget/rambo-sidebar-categoryt-list.php:67
+#: ../rambo-pro/functions/widget/rambo-sidebar-latest-news.php:75
+#: ../rambo-pro/functions/widget/rambo-sidebar-newsletter.php:84
+#: ../rambo-pro/functions/widget/rambo-sidebar-social-media.php:63
+#: ../twentyfourteen/inc/widgets.php:236
+msgid "Title:"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-footer-contact-widgets.php:84
+msgid "Contact address:"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-footer-contact-widgets.php:87
+msgid "Contact phone number:"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-footer-contact-widgets.php:91
+msgid "Contact email address:"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-footer-usefull-links-widgets.php:17
+msgid "Rambo Footer Usefull Links"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-footer-usefull-links-widgets.php:18
+msgid "The most Usefull page link on your site"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-footer-usefull-links-widgets.php:72
+#: ../rambo-pro/functions/widget/rambo-sidebar-latest-news.php:79
+msgid "Number of pages to show:"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-sidebar-categoryt-list.php:17
+msgid "Rambo Sidebar Category list"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-sidebar-categoryt-list.php:18
+msgid "A list or dropdown of categories."
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-sidebar-categoryt-list.php:71
+msgid "Number of category to show:"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-sidebar-latest-news.php:17
+msgid "Rambo Sidebar Latest News"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-sidebar-latest-news.php:18
+msgid "The Recent post display on your site "
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-sidebar-newsletter.php:17
+msgid "Rambo Sidebar NewS Letter"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-sidebar-newsletter.php:18
+msgid "The widgets is subcribe news letter ."
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-sidebar-newsletter.php:80
+msgid "Newsletter"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-sidebar-social-media.php:17
+msgid "Rambo Sidebar Social Media"
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-sidebar-social-media.php:18
+msgid "A list Social media list."
+msgstr ""
+
+#: ../rambo-pro/functions/widget/rambo-sidebar-social-media.php:59
+msgid "Social Media"
+msgstr ""
+
+#: ../twentyfourteen/404.php:17 ../twentythirteen/404.php:16
+msgid "Not Found"
+msgstr ""
+
+#: ../twentyfourteen/404.php:21 ../twentythirteen/404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:31 ../twentythirteen/archive.php:29
+#: ../twentytwelve/archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:34 ../twentythirteen/archive.php:31
+#: ../twentytwelve/archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:37 ../twentythirteen/archive.php:33
+#: ../twentytwelve/archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:40
+#: ../twentyfourteen/taxonomy-post_format.php:51
+#: ../twentythirteen/archive.php:35 ../twentytwelve/archive.php:35
+msgid "Archives"
+msgstr ""
+
+#: ../twentyfourteen/author.php:31 ../twentythirteen/author.php:31
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../twentyfourteen/category.php:20 ../twentythirteen/category.php:19
+#: ../twentytwelve/category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:59 ../twentythirteen/comments.php:52
+#: ../twentytwelve/comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:180
+msgid "1 Comment"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:180
+msgid "% Comments"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:40
+#: ../twentyfourteen/content-audio.php:40
+#: ../twentyfourteen/content-gallery.php:40
+#: ../twentyfourteen/content-image.php:40
+#: ../twentyfourteen/content-link.php:40 ../twentyfourteen/content-page.php:28
+#: ../twentyfourteen/content-quote.php:40
+#: ../twentyfourteen/content-video.php:40 ../twentyfourteen/content.php:42
+#: ../twentyfourteen/image.php:34
+#: ../twentyfourteen/page-templates/contributors.php:35
+#: ../twentythirteen/content-aside.php:20
+#: ../twentythirteen/content-aside.php:28
+#: ../twentythirteen/content-audio.php:31
+#: ../twentythirteen/content-chat.php:29
+#: ../twentythirteen/content-gallery.php:39
+#: ../twentythirteen/content-image.php:35
+#: ../twentythirteen/content-link.php:19
+#: ../twentythirteen/content-quote.php:25
+#: ../twentythirteen/content-status.php:19
+#: ../twentythirteen/content-video.php:35 ../twentythirteen/content.php:31
+#: ../twentythirteen/image.php:44 ../twentythirteen/page.php:39
+#: ../twentytwelve/content-aside.php:26 ../twentytwelve/content-image.php:26
+#: ../twentytwelve/content-link.php:24 ../twentytwelve/content-page.php:24
+#: ../twentytwelve/content-quote.php:23 ../twentytwelve/content-status.php:40
+#: ../twentytwelve/content.php:48 ../twentytwelve/functions.php:349
+#: ../twentytwelve/image.php:37
+msgid "Edit"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:46
+#: ../twentyfourteen/content-audio.php:46
+#: ../twentyfourteen/content-gallery.php:46
+#: ../twentyfourteen/content-image.php:46
+#: ../twentyfourteen/content-link.php:46
+#: ../twentyfourteen/content-quote.php:46
+#: ../twentyfourteen/content-video.php:46 ../twentyfourteen/content.php:54
+#: ../twentyfourteen/inc/widgets.php:113 ../twentyfourteen/inc/widgets.php:158
+#: ../twentythirteen/content-aside.php:13
+#: ../twentythirteen/content-audio.php:24
+#: ../twentythirteen/content-gallery.php:24
+#: ../twentythirteen/content-image.php:23
+#: ../twentythirteen/content-link.php:24
+#: ../twentythirteen/content-quote.php:13
+#: ../twentythirteen/content-status.php:13
+#: ../twentythirteen/content-video.php:23 ../twentythirteen/content.php:41
+#: ../twentytwelve/content-aside.php:15 ../twentytwelve/content-image.php:13
+#: ../twentytwelve/content-link.php:14 ../twentytwelve/content-quote.php:13
+#: ../twentytwelve/content-status.php:31 ../twentytwelve/content.php:41
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:48
+#: ../twentyfourteen/content-audio.php:48
+#: ../twentyfourteen/content-gallery.php:48
+#: ../twentyfourteen/content-image.php:48
+#: ../twentyfourteen/content-link.php:48 ../twentyfourteen/content-page.php:22
+#: ../twentyfourteen/content-quote.php:48
+#: ../twentyfourteen/content-video.php:48 ../twentyfourteen/content.php:56
+#: ../twentyfourteen/image.php:54 ../twentythirteen/content-aside.php:14
+#: ../twentythirteen/content-audio.php:25
+#: ../twentythirteen/content-chat.php:24
+#: ../twentythirteen/content-gallery.php:25
+#: ../twentythirteen/content-image.php:24
+#: ../twentythirteen/content-link.php:25
+#: ../twentythirteen/content-quote.php:14
+#: ../twentythirteen/content-status.php:14
+#: ../twentythirteen/content-video.php:24 ../twentythirteen/content.php:42
+#: ../twentythirteen/image.php:70 ../twentythirteen/page.php:35
+#: ../twentytwelve/content-page.php:21 ../twentytwelve/content.php:42
+#: ../twentytwelve/image.php:102
+msgid "Pages:"
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:18 ../twentythirteen/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../twentyfourteen/footer.php:21 ../twentythirteen/footer.php:19
+#: ../twentytwelve/footer.php:16
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../twentyfourteen/footer.php:21 ../twentythirteen/footer.php:19
+#: ../twentytwelve/footer.php:16
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:83
+msgid "Top primary menu"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:84
+msgid "Secondary menu in left sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:175
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:177
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:184
+msgid "Content Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:186
+msgid "Additional sidebar that appears on the right."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:195 ../twentythirteen/functions.php:237
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:260
+msgid "Previous"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:261
+msgid "Next"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:500 ../twentythirteen/functions.php:220
+#: ../twentytwelve/functions.php:215
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../twentyfourteen/header.php:48
+msgid "Search"
+msgstr ""
+
+#: ../twentyfourteen/header.php:53 ../twentythirteen/header.php:44
+#: ../twentytwelve/header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: ../twentyfourteen/image.php:65
+msgid "Previous Image"
+msgstr ""
+
+#: ../twentyfourteen/image.php:66
+msgid "Next Image"
+msgstr ""
+
+#: ../twentyfourteen/tag.php:22 ../twentythirteen/tag.php:21
+#: ../twentytwelve/tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:30
+#: ../twentyfourteen/inc/widgets.php:53
+msgid "Asides"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:33
+#: ../twentyfourteen/inc/widgets.php:54
+msgid "Images"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:36
+#: ../twentyfourteen/inc/widgets.php:55
+msgid "Videos"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:39
+#: ../twentyfourteen/inc/widgets.php:56
+msgid "Audio"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:42
+#: ../twentyfourteen/inc/widgets.php:57
+msgid "Quotes"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:45
+#: ../twentyfourteen/inc/widgets.php:58
+msgid "Links"
+msgstr ""
+
+#: ../twentyfourteen/taxonomy-post_format.php:48
+#: ../twentyfourteen/inc/widgets.php:59
+msgid "Galleries"
+msgstr ""
+
+#: ../twentyfourteen/inc/back-compat.php:41
+#: ../twentyfourteen/inc/back-compat.php:53
+#: ../twentyfourteen/inc/back-compat.php:68
+#, php-format
+msgid ""
+"Twenty Fourteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:19
+#: ../twentyfourteen/inc/customizer.php:20
+msgid "Background may only be visible on wide screens."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:28
+msgid "Site Title Color"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:31
+msgid "Display Site Title &amp; Tagline"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:35
+#: ../twentyfourteen/inc/featured-content.php:408
+msgid "Featured Content"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:36
+#, php-format
+msgid ""
+"Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the "
+"tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:47
+msgid "Layout"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:51
+msgid "Grid"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:52
+msgid "Slider"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:98
+msgid "Twenty Fourteen"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:101
+#, php-format
+msgid ""
+"The home page features your choice of up to 6 posts prominently displayed in "
+"a grid or slider, controlled by the <a href=\"%1$s\">featured</a> tag; you "
+"can change the tag and layout in <a href=\"%2$s\">Appearance &rarr; "
+"Customize</a>. If no posts match the tag, <a href=\"%3$s\">sticky posts</a> "
+"will be displayed instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:102
+#, php-format
+msgid ""
+"Enhance your site design by using <a href=\"%s\">Featured Images</a> for "
+"posts you&rsquo;d like to stand out (also known as post thumbnails). This "
+"allows you to associate an image with your post without inserting it. Twenty "
+"Fourteen uses featured images for posts and pages&mdash;above the "
+"title&mdash;and in the Featured Content area on the home page."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:103
+#, php-format
+msgid ""
+"For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s"
+"\">Twenty Fourteen documentation</a>."
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:409
+#, php-format
+msgid ""
+"Use the <a href=\"%1$s\">\"featured\" tag</a> to feature your posts. You can "
+"change this to a tag of your choice; if no posts match the tag, <a href="
+"\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:428
+msgid "Tag Name"
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:433
+msgid "Don&rsquo;t display tag on front end."
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:47 ../twentytwelve/image.php:41
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:48 ../twentytwelve/image.php:42
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:55
+#: ../twentythirteen/functions.php:272
+msgid "Posts navigation"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:84
+#: ../twentythirteen/functions.php:308 ../twentytwelve/functions.php:288
+#: ../twentytwelve/single.php:20
+msgid "Post navigation"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:88
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:90
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:110
+#: ../twentythirteen/functions.php:332
+msgid "Sticky"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:44
+msgid "Twenty Fourteen Ephemera"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:46
+msgid ""
+"Use this widget to list your recent Aside, Quote, Video, Audio, Image, "
+"Gallery, and Link posts"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:189
+#, php-format
+msgid "More %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:239
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:242
+msgid "Post format to show:"
+msgstr ""
+
+#: ../twentythirteen/404.php:21 ../twentytwelve/404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../twentythirteen/author-bio.php:26 ../twentytwelve/author.php:63
+#: ../twentytwelve/content.php:59
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../twentythirteen/author-bio.php:30 ../twentytwelve/content.php:63
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+msgid "One comment so far"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+#, php-format
+msgid "View all % comments"
+msgstr ""
+
+#: ../twentythirteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../twentythirteen/functions.php:97
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../twentythirteen/functions.php:235
+msgid "Main Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:245
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:247
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: ../twentythirteen/functions.php:276 ../twentytwelve/functions.php:289
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../twentythirteen/functions.php:280 ../twentytwelve/functions.php:290
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/functions.php:338 ../twentythirteen/functions.php:344
+#: ../twentytwelve/functions.php:376 ../twentytwelve/functions.php:379
+msgid ", "
+msgstr ""
+
+#: ../twentythirteen/functions.php:353 ../twentytwelve/functions.php:390
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../twentythirteen/functions.php:379 ../twentytwelve/content-aside.php:20
+#: ../twentytwelve/content-link.php:18 ../twentytwelve/content-quote.php:17
+#: ../twentytwelve/content-status.php:15
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../twentythirteen/image.php:22
+#, php-format
+msgid ""
+"<span class=\"attachment-meta\">Published on <time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" "
+"rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+
+#: ../twentythirteen/image.php:39
+msgid "Full resolution"
+msgstr ""
+
+#: ../twentythirteen/image.php:51
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../twentythirteen/image.php:52
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/taxonomy-post_format.php:23
+#, php-format
+msgid "%s Archives"
+msgstr ""
+
+#: ../twentythirteen/inc/back-compat.php:41
+#: ../twentythirteen/inc/back-compat.php:53
+#: ../twentythirteen/inc/back-compat.php:68
+#, php-format
+msgid ""
+"Twenty Thirteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentytwelve/author.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:30
+msgid "Leave a reply"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:30
+msgid "1 Reply"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:30
+msgid "% Replies"
+msgstr ""
+
+#: ../twentytwelve/content-link.php:12
+msgid "Link"
+msgstr ""
+
+#: ../twentytwelve/content-none.php:17 ../twentytwelve/index.php:53
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../twentytwelve/content.php:16
+msgid "Featured post"
+msgstr ""
+
+#: ../twentytwelve/functions.php:244
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../twentytwelve/functions.php:246
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: ../twentytwelve/functions.php:254
+msgid "First Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:256 ../twentytwelve/functions.php:266
+msgid ""
+"Appears when using the optional Front Page template with a page set as "
+"Static Front Page"
+msgstr ""
+
+#: ../twentytwelve/functions.php:264
+msgid "Second Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:317
+msgid "Pingback:"
+msgstr ""
+
+#: ../twentytwelve/functions.php:317
+msgid "(Edit)"
+msgstr ""
+
+#: ../twentytwelve/functions.php:332
+msgid "Post author"
+msgstr ""
+
+#: ../twentytwelve/functions.php:338
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../twentytwelve/functions.php:396
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author"
+"\"> by %4$s</span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:398
+#, php-format
+msgid ""
+"This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+"span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:400
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: ../twentytwelve/image.php:26
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: ../twentytwelve/index.php:38
+msgid "No posts to display"
+msgstr ""
+
+#: ../twentytwelve/index.php:42
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""

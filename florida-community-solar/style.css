@@ -1,0 +1,437 @@
+/*
+ Theme Name:   Florida Community Solar Theme
+ Description:  Theme for Florida Community Solar base on Rambo Pro parent theme.
+ Author:       S.Barakat
+ Author URI:   http://stevebarakat.com
+ Template:     rambo-pro
+ Version:      1.0.0
+*/
+
+@import url("../rambo-pro/style.css");
+body, p, ul, h1, h2, h3, h4, h5, h6, .nav {
+    font-family: "Lato", Helvetica, sans-serif !important;
+}
+
+
+.navbar .nav > li {
+    border-left: none !important;
+    border-bottom: 1px solid #fff;
+}
+
+.navbar li a {
+    color: #fff !important;
+}
+
+
+
+
+hr.style-eight {
+    padding: 0;
+    border: none;
+    border-top: medium double #5b5b5b;
+    color: #5b5b5b;
+    text-align: center;
+    margin-bottom: 3em;
+}
+hr.style-eight:after {
+    content: "§";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: white;
+}
+/*HOMEPAGE BANNER*/
+
+.main_slider {
+    background-color: transparent !important;
+    border-top: none !important;
+    text-align: center;
+    position: relative;
+    bottom: 70px !important;
+    margin-bottom: -70px;
+}
+.petition_wrap {
+    width: 500px;
+    display: block;
+    float: right;
+}
+.slider_con {
+    top: 52% !important;
+    left: 41%;
+    position: absolute;
+    top: 15%;
+    width: auto;
+    z-index: 0;
+    float: left;
+}
+.slider_con h2 {
+    color: #FFFFFF;
+    font-family: 'RobotoBold';
+    font-size: 3.2em;
+    font-weight: 900;
+    line-height: 1em;
+    letter-spacing: 0;
+    display: block;
+    text-align: left;
+    margin: 0;
+    text-shadow: 0 3px 3px rgba(0, 0, 0, 0.5);
+}
+.tagline {
+    font-family: "Lato", Helvetica, sans-serif !important;
+    font-weight: 700;
+    font-size: 1.15em;
+    text-align: left !important;
+    background: rgba(0, 0, 0, 0.5);
+    display: inline-block;
+    margin-top: 10px;
+    padding: 5px 5px;
+    color: #fff !important;
+    float: left;
+}
+.site-intro-description {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.purchase_main_content {
+    background-color: none !important;
+    padding: 5px 13px;
+    position: absolute;
+    bottom: 0px;
+    left: 330px;
+}
+.purchase_now_content {
+    text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.5);
+    text-align: left;
+}
+.purchase_now_content span {
+    font-size: 30px;
+    font-weight: normal;
+    line-height: 28px;
+    margin: 13px 0px;
+    color: #fff;
+    text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.5);
+}
+.purchase_now_btn {
+    font-family: "RobotoBold";
+    font-size: 18px;
+    line-height: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 6px 25px;
+    border-radius: 12px;
+}
+/*MENU*/
+
+.navbar {
+    margin: 0 0 10px !important;
+}
+.navbar-inner {
+    background: none !important;
+}
+.navbar .nav {
+    top: 20px;
+}
+.navbar .nav > li > a {
+    color: #eee;
+    font-family: 'Lato';
+    font-weight: 500;
+    float: none;
+    padding: 10px 25px;
+    text-decoration: none;
+    /* transition: all 0.4s ease-in-out 0s;  */
+    
+    font-size: 18px;
+}
+.navbar .nav > li > a:hover {
+    background-color: rgba(255, 255, 255, .2) !important;
+}
+.navbar ul:first-child {
+    background: #46B1E1 !important;
+    border-radius: 15px !important;
+}
+.navbar .nav > li:first-child {
+    border-left: none !important;
+}
+.navbar .nav > li:first-child a {
+    border-radius: 15px 0 0 15px !important;
+}
+.navbar .nav > li:last-child a {
+    border-radius: 0 15px 15px 0 !important;
+}
+.navbar .nav > .active > a:hover {
+    border-radius: 15px !important;
+    background: #46B1E1 !important;
+}
+.navbar .nav > .active > a {
+    background-color: rgba(255, 255, 255, .2) !important;
+}
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 245px;
+    padding: 0px 0;
+    margin: 0px 0 0;
+    list-style: none;
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    border-style: solid none;
+    border-color: red;
+    border-width: 22px 0 !important;
+    margin-top: 0px;
+    z-index: 9999 !important;
+}
+.dropdown-menu > li > a {
+    font-family: 'Lato';
+    display: block;
+    padding: 14px 20px;
+    clear: both;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    white-space: nowrap;
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus, .dropdown-submenu:hover > a, .dropdown-submenu:focus > a {
+    text-decoration: none;
+    background-repeat: repeat-x;
+}
+.dropdown-submenu > .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -2px;
+    margin-left: 0px;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+/*PARAGRAPH STYLES*/
+
+p {
+    margin-bottom: 1em !important;
+}
+p, ul, li {
+    color: #8b8b8b !important;
+    font-weight: 300;
+}
+ul {
+    margin-bottom: 1em !important;
+}
+li {
+    font-size: 20px;
+    line-height: 30px !important;
+}
+.home_service h2 {
+    position: relative;
+    text-align: left;
+    left: 8px;
+    margin: 8px 0;
+    color: #7b7b7b;
+    font-size: 28px;
+}
+.home_service p {
+    text-align: left;
+    font-size: 20px;
+    line-height: 25px;
+    padding: 0 1em 0 0;
+    text-align: justify;
+}
+.blog_section2 p, .blog_single_post p {
+    font-size: 20px;
+    line-height: 25px;
+}
+.blog_section2_comment a {
+    padding: .75em;
+    color: #efefef;
+}
+.blog_section2_comment a i {
+    color: #efefef;
+}
+.blog_section2_comment {
+    display: block;
+    padding: .5em;
+    border-bottom: 1px solid #46B1E1;
+    border-top: 1px solid #46B1E1;
+    background: #46B1E1;
+}
+/*HEADER STYLES*/
+
+.blog_single_post h1, .blog_section2 h1, .blog_section h1, .blog_single_post h1 a, .blog_section2 h1 a, .blog_section h1 a {
+    font-size: 1.6em !important;
+    line-height: 1.3em;
+    color: #5b5b5b;
+    font-weight: 300;
+    text-transform: capitalize;
+    margin-bottom: .5em;
+}
+.blog_single_post h2, .blog_section2 h2, .blog_section h2 {
+    font-size: 1.8em !important;
+    color: #5b5b5b;
+    font-weight: 300;
+    text-transform: capitalize;
+    margin-bottom: .5em;
+}
+.blog_single_post h3, .blog_section2 h3, .blog_section h3 {
+    font-size: 1.5em !important;
+    color: #5b5b5b;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-bottom: .5em;
+}
+.blog_single_post h4, .blog_section2 h4, .blog_section h4 {
+    font-size: 1.5em !important;
+    color: #5b5b5b;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-bottom: .5em;
+}
+.blog_single_post h5, .blog_section2 h5, .blog_section h5 {
+    font-size: 1.5em !important;
+    color: #5b5b5b;
+    font-weight: 500;
+    margin-bottom: .5em;
+}
+.blog_single_post h6, .blog_section2 h6, .blog_section h6 {
+    font-size: 1.5em !important;
+    color: #5b5b5b;
+    font-weight: 300;
+    margin-bottom: .5em;
+    ;
+}
+.latest_news_section h3 {
+    font-size: 20px;
+    line-height: 30px;
+}
+.widget_title h2 {
+    color: #dedede;
+}
+.footer_widget p, .textwidget {
+    font-size: 1.4em !important;
+    font-weight: 100 !important;
+}
+.widget_con_detail {
+    line-height: 1.5em !important;
+    color: #ccc !important;
+}
+.dk-speakup-signaturelist, .dk-speakup-signaturelist td {
+    border-width: 0px !important;
+    border-style: none !important;
+    border-top: none !important;
+    border-right: none !important;
+    border-bottom: 1px dotted !important;
+    border-left: none !important;
+}
+.dk-speakup-signaturelist caption {
+    display: none;
+}
+.dk-speakup-odd, .dk-speakup-even {
+    font-weight: 300;
+}
+.dk-speakup-petition-wrap {
+    width: 100% !important;
+}
+.textwidget {
+    font-family: "Lato" !important;
+}
+.icon_align_center {
+    display: block !important;
+    margin: 0px auto;
+    height: 50px !important;
+    width: 50px !important;
+    line-height: 50px !important;
+    background: none repeat scroll 0px 0px #46B1E1;
+    border-radius: 50%;
+    float: left;
+}
+.latest_news_section {
+    margin: 15px 0 0 0;
+}
+.front_page_news li {
+    list-style-type: none;
+}
+.front_page_news a {
+    font-size: 13px !important;
+    font-family: Lato !important;
+    font-style: normal;
+    line-height: 18px !important;
+    padding: 0px 10px;
+}
+.latest_news_img {
+    width: 120px;
+    height: 120px;
+    float: left;
+    margin: 0px 13px 7px 0px;
+    border-radius: 30px;
+}
+.slogan {
+    font-size: 22px !important;
+    font-weight: 500 !important;
+    color: #5b5b5b !important;
+    margin-left: 12px !important;
+    display: block !important;
+    padding: 5px 0 5px;
+}
+
+/*MEDIA QUERIES*/
+
+@media screen and (max-width: 779px) {
+   .container {
+        margin: 0 0 0 1.5rem !important;
+    }
+    .main_slider {
+        display: none !important;
+    }
+    .site-intro-description{
+        color: #fff;
+        background: none !important;
+        font-size: 2rem;
+        line-height: 2.5rem;
+    }
+    .purchase_now_content_mobile {
+        background: #8CBD3F;
+        border-top: 5px solid #dedede;
+        border-bottom: 5px solid  #dedede;
+        padding: 2rem;
+        margin: 1em auto;
+    }
+    .purchase_now_btn{
+        float: right;
+    }
+}
+
+@media screen and (min-width: 780px) {
+    .purchase_now_content_mobile {
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 1380px) {
+    .slider_con h2 {
+        font-size: 3em;
+    }
+    .slider_con {
+        margin-top: -1em;
+        z-index: 9999;
+    }
+    .tagline {
+        display: none;
+    }
+    .purchase_now_content span {
+        font-size: 1.2em;
+    }
+
+    .site-intro-description {
+        background: rgba(0, 0, 0, 0.5);
+        display: inline-block;
+        margin-top: 10px !important;
+        padding: 0 10px !important;
+    }
+    .petition_wrap {
+        float: left;
+    }
+}
